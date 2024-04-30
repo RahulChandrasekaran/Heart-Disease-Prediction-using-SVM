@@ -12,8 +12,6 @@
 - Visualize data using histograms, scatter plots, and correlation matrices.
 - Identify patterns and potential insights related to heart disease diagnosis.
 
-![Img](https://github.com/abhamidi-1234/Predicting-Heart-Disease-with-Support-Vector-Machines/blob/main/Capture1.PNG)
-
 **Step 3: Data Preprocessing**
 
 - Handle missing values, if any, by imputing or removing them.
@@ -38,7 +36,7 @@
 
 The **Radial Basis Function (RBF)** that we are using with our **Support Vector Machine** assumes that the data are centered and scaled, so we need to do this to both the training and testing datasets.
 
-**NOTE:** We split the data into training and testing datasets and then scale them separately to avoid **Data Leakage**. **Data Leakage** occurs when information about the training dataset currupts or influences the testing dataset.
+**NOTE:** We split the data into training and testing datasets and then scale them separately to avoid **Data Leakage**. **Data Leakage** occurs when information about the training dataset corrupts or influences the testing dataset.
 
 **Step 7: SVM Model Building**
 
@@ -60,7 +58,7 @@ The **Radial Basis Function (RBF)** that we are using with our **Support Vector 
 
 **Step 10: Hyperparameter Tuning**
 
-- Optimize the SVM model's hyperparameters (Gamma, C and kernel parameters) using techniques like grid search or random search to improve model performance.
+- Optimize the SVM model's hyperparameters (Gamma, C, and kernel parameters) using techniques like grid search or random search to improve model performance.
 
 **Step 11: Interpretation of Results**
 
@@ -68,22 +66,9 @@ The **Radial Basis Function (RBF)** that we are using with our **Support Vector 
 - Identify the most influential features for heart disease prediction.
 - Understand the decision boundaries and support vectors in the SVM model.
 
-![Img](https://github.com/abhamidi-1234/Predicting-Heart-Disease-with-Support-Vector-Machines/blob/main/Capture2.PNG)
-
-![Img](https://github.com/abhamidi-1234/Predicting-Heart-Disease-with-Support-Vector-Machines/blob/main/Capture3.PNG)
-
-![Img](https://github.com/abhamidi-1234/Predicting-Heart-Disease-with-Support-Vector-Machines/blob/main/Capture4.PNG)
 
 **Step 12: Conclusion and Insights**
 
 - Summarize findings and insights from the heart disease prediction analysis.
 - Provide actionable recommendations for healthcare or patient management based on the SVM model's predictions.
 
-
-## How to reach me
-
-https://www.linkedin.com/in/abhishek-bhamidipati/
-
-https://abhishekcmu.wixsite.com/home
-
-https://github.com/abhamidi-1234
